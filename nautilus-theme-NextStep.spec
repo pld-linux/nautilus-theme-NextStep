@@ -7,6 +7,7 @@ License:	Free
 Group:		X11/Amusements
 #http://www.lucidus.uklinux.net/index.php?theme=nautilus&get=nextstep.tar.gz
 Source0:	nautilus-nextstep.tar.gz
+# Source0-md5:	9ec899f201b74ba9357ca896b54ab5d6
 URL:		http://sunshineinabag.co.uk/
 Requires:	nautilus
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
