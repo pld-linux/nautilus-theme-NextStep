@@ -1,5 +1,5 @@
 Summary:	NextStep theme
-Summary(pl):	Motyw NextStep
+Summary(pl.UTF-8):   Motyw NextStep
 Name:		nautilus-theme-NextStep
 Version:	1.0
 Release:	1
@@ -18,9 +18,9 @@ BuildArch:	noarch
 NextStep-like icons and backgrounds. Contains a full set of original
 mime-type icons.
 
-%description -l pl
-Ikony i t�a w stylu NextStep. Zawiera pe�ny zestaw oryginalnych ikonek
-dla r�nych typ�w plik�w.
+%description -l pl.UTF-8
+Ikony i tła w stylu NextStep. Zawiera pełny zestaw oryginalnych ikonek
+dla różnych typów plików.
 
 %prep
 %setup -q -n NextStep
