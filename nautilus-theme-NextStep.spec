@@ -1,5 +1,5 @@
 Summary:	NextStep theme
-Summary(pl.UTF-8):   Motyw NextStep
+Summary(pl.UTF-8):	Motyw NextStep
 Name:		nautilus-theme-NextStep
 Version:	1.0
 Release:	1
